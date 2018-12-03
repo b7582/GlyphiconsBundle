@@ -1,4 +1,4 @@
 GlyphiconsBundle
 ===
 
-A Symfony project created on December 2, 2018, 10:01 pm.
+Symfony 3.4
